@@ -1,0 +1,17 @@
+types of loops:
+1. forever loop:
+   while(true): is a forever loop
+2. while(boolean-expression):
+   if the boolean-expression is true, all lines of code will be executed in order
+   from top to bottom, until the boolean-expression becomes false
+3. do while loop:
+   executes all lines of code between the curly braces once, and then if the boolean-expression
+   evaluates to true, will go back and repeat the process until boolean-expression is false
+4. for loop:
+   use it if you want to repeat it a number of times.
+   for(start;expressiont; increment)
+use cases:
+while loop: use when you want a loop to repeat and unkown number of of times, possibly not at all.
+do-while loop: loop to repeat an unkown number of times, but at least once.
+for loop: repeat the loop a discrete number of times, but don't know the number of times at the moment
+the program is compiled.
